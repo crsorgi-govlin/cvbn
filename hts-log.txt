@@ -1,0 +1,11 @@
+HTTrack3.49-2+htsswf+htsjava launched on Thu, 25 May 2023 11:16:36 at https://crsorgi-govlin.github.io/crsso/crsorgi.gov.in/web/index.php/auth/birthCertificate/view/cert/B/ZGtDZlZNT1Y4WkZGbXN6a25MM1V5Zz09%3d%3d.html +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://crsorgi-govlin.github.io/crsso/crsorgi.gov.in/web/index.php/auth/birthCertificate/view/cert/B/ZGtDZlZNT1Y4WkZGbXN6a25MM1V5Zz09%3d%3d.html -O1 "C:\My Web Sites\j" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+
+HTTrack Website Copier/3.49-2 mirror complete in 20 seconds : 41 links scanned, 40 files written (533472 bytes overall) [307251 bytes received at 15362 bytes/sec], 349786 bytes transferred using HTTP compression in 14 files, ratio 25%, 20.5 requests per connection
+(No errors, 0 warnings, 0 messages)
